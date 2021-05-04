@@ -1,5 +1,6 @@
 import random
 
+score = (0)
 
 def quizQuestion():
     num1 = random.randint(1, 100)
